@@ -12,7 +12,7 @@ name: 极路由3
 on:
   push:
     branches: 
-      - master
+      - dev-19.07
   schedule:
     - cron: 0 20 * * *
   # release:
