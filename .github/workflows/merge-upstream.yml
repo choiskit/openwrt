@@ -12,8 +12,8 @@ on:
   push:
     branches: 
       - dev-19.07
-  schedule:
-    - cron: 30 19 * * *
+  #schedule:
+   # - cron: 30 19 * * *
 
 jobs:
   merge:
