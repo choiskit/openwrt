@@ -13,8 +13,8 @@ on:
   push:
     branches: 
       - dev-19.07
-  schedule:
-    - cron: 0 20 * * *
+  #schedule:
+  #  - cron: 0 20 * * *
   # release:
   #   types: [published]
 
